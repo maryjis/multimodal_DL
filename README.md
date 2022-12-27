@@ -11,5 +11,8 @@ The articles related to Multimodal deep learning in neuroimaging are represented
 | [Interpretable Graph Convolutional Network of multi-modality brain imaging for Alzheimer’s disease diagnosis](https://deepai.org/publication/interpretable-graph-convolutional-network-of-multi-modality-brain-imaging-for-alzheimer-s-disease-diagnosis) | Alzheimer’s disease classification | **Data**: [ADNI](https://adni.loni.usc.edu/data-samples/data-types/) **Count**: 182 HC subjects, 476MCI subjects, and 97 AD subjects **Modality**: sMRI, FDG-PET,(AV45-PET) **Preprocessing**: SPM software| Graph Convolutional Neural Network |Early | 0.818 ±.031 (MCI vs HC vs Alzheimer) | - |
 | [Multi-View Imputation and Cross-Attention Network Based on Incomplete Longitudinal and Multi-Modal Data for Alzheimer’s Disease Prediction](https://deepai.org/publication/multi-view-imputation-and-cross-attention-network-based-on-incomplete-longitudinal-and-multi-modal-data-for-alzheimer-s-disease-prediction) | Alzheimer’s disease classification | **Data**: ADNI, OASIS **Count**:  1387 **Modality**: sMRI, FDG-PET| RNN-based network with cross-attention (MCNet) |--------| (sMCI and pMCI) | [code](https://github.com/Meiyan88/MCNET) |
 
+| [Deep Learning-Based Feature Representation for AD/MCI Classification](https://link.springer.com/chapter/10.1007/978-3-642-40763-5_72) | Alzheimer’s disease classification| **Data**: [ADNI](https://adni.loni.usc.edu/data-samples/data-types/) **Count**: 99 MCI,52 HC **Modality**:MRI, PET, and CSF **Preprocessing**: 93 region-of-interest-based volumetric features from MRI and 93  mean intensity from PET, 3 CSF biomarkers of Aβ42, t-tau, and p-tau. | ------------- |------------- | ------------- |------------- |
+
+
 
 
